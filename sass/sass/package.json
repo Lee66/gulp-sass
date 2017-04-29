@@ -1,0 +1,27 @@
+{
+  "name": "lee",
+  "version": "1.1.0",
+  "description": "sass",
+  "main": "main",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-sass": "^3.0.0",
+    "gulp-uglify": "^1.5.4"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.3.2",
+    "gulp-uglify": "^1.5.4",
+    "uglify-js": "^2.7.5"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "lee"
+  ],
+  "author": "lee",
+  "license": "ISC"
+}
